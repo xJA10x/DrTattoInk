@@ -1,0 +1,106 @@
+/************************************
+
+Main styles
+
+*************************************/
+
+body {
+
+  color: #878787;
+  margin: 0;
+  font-size: 1em;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+
+}
+
+/***************************************
+
+Header styles
+
+*****************************************/
+
+.main-header {
+
+  background-color: #ffa949;
+  padding-top: 170px;
+  height: 850px;
+  background-image: url('../img/tatto1.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+
+.title {
+
+  color: white;
+  font-size: 3rem;
+  letter-spacing: .065em;
+  font-weight: 200;
+  border-bottom: 2px solid;
+  padding-bottom: 10px;
+  text-shadow:0 0 10px #000, 0 0 20px #000, 0 0 30px #000, 0 0 40px #000, 0 0 50px #000, 0 0 60px #000, 0 0 70px #000;
+
+
+}
+
+h1 {
+
+  font-size: 5.625rem;
+  color: rgba(255, 255, 255, 1);
+  text-transform: uppercase;
+  font-weight: normal;
+  line-height: 1.3;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.8);
+  margin: 12px 0;
+  text-shadow:0 0 10px #000, 0 0 20px #000, 0 0 30px #000, 0 0 40px #000, 0 0 50px #000, 0 0 60px #000, 0 0 70px #000;
+
+}
+
+.main-header {
+
+  text-align: center;
+
+}
+
+/********************************
+
+Navigation styles
+
+*********************************/
+
+header nav {
+
+  text-align: center;
+  font-size: 2rem;
+  padding: 20px 0;
+  position: top;
+
+}
+
+header nav ul {
+
+  list-style: none;
+  margin: 0 10px;
+  padding: 0;
+  position: top;
+
+}
+
+header nav li {
+
+  display: inline-block;
+
+}
+
+header nav a {
+
+  text-decoration: none;
+  color: rgba(255, 255, 255, 1);
+  font-weight: 800;
+  padding: 15px 140px;
+  text-shadow:0 0 10px #000, 0 0 20px #000, 0 0 30px #000, 0 0 40px #000, 0 0 50px #000, 0 0 60px #000, 0 0 70px #000;
+  font-size: 30px;
+
+}
