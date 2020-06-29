@@ -104,3 +104,25 @@ header nav a {
   font-size: 30px;
 
 }
+
+/*************************************
+
+Footer styles
+
+***************************************/
+
+.main-footer {
+
+  font-size: 22px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  text-shadow:0 0 10px #000, 0 0 20px #000, 0 0 30px #000, 0 0 40px #000, 0 0 50px #000, 0 0 60px #000, 0 0 70px #000;
+  margin-top: 100px;
+  padding-top: 220px;
+  padding-bottom: 60px;
+  background-image: url('../img/tatto1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
