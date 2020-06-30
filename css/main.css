@@ -58,7 +58,8 @@ h1 {
 
 }
 
-.main-header {
+.main-header,
+.primary-content {
 
   text-align: center;
 
@@ -102,6 +103,29 @@ header nav a {
   padding: 15px 180px;
   text-shadow:0 0 10px #000, 0 0 20px #000, 0 0 30px #000, 0 0 40px #000, 0 0 50px #000, 0 0 60px #000, 0 0 70px #000;
   font-size: 30px;
+
+}
+
+/************************************
+
+Primary content styles
+
+*************************************/
+
+.primary-content {
+
+  padding-top: 25px;
+  padding-bottom: 95px;
+
+}
+
+.primary-content {
+
+  width: 75%;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin: auto;
+  max-width: 900px;
 
 }
 
