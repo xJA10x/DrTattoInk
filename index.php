@@ -6,9 +6,11 @@
   </head>
   <body>
     <header id="top" class="main-header">
+      <!-- How to include files in php -->
       <?php include("include/header.html"); ?>
     </header>
     <div class="primary-content">
+      <!-- Anchor for that scrolls down -->
       <div id="gallery">
         <?php include("gallery.html"); ?>
       </div>
