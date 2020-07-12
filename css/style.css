@@ -1,14 +1,10 @@
 .about
 {
-    border: solid 2px black;
-    /* padding-left: 50% ; */
+    border: solid 2px black;    
     margin: 0 auto;
 }
 .row, .leftside
 {
-    /* border: solid blue; */
-    /* padding-top: 10px; */
     text-align: center;
-    margin-top: 50px;
-    /* bottom: 100px; */
+    margin-top: 50px;    
 }
