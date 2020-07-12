@@ -1,0 +1,14 @@
+.about
+{
+    border: solid 2px black;
+    /* padding-left: 50% ; */
+    margin: 0 auto;
+}
+.row, .leftside
+{
+    /* border: solid blue; */
+    /* padding-top: 10px; */
+    text-align: center;
+    margin-top: 50px;
+    /* bottom: 100px; */
+}

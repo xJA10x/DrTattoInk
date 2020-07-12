@@ -3,6 +3,7 @@
   <head>
     <title>D.R.Tatto Ink</title>
     <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/gallery.css">
     <link rel="stylesheet" href="css/lightgallery.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">    
@@ -15,9 +16,7 @@
     <script src="script/lightgallery.js"></script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href="https://cdn.jsdelivr.net/lightgallery/1.3.9/css/lightgallery.min.css" rel="stylesheet">-->
-    <style>body{background-color:#152836}h2{color:#fff;margin-bottom:40px;text-align:center;font-weight:100;}</style> 
+    
   </head>
   <body>
     <header id="top" class="main-header">
@@ -27,9 +26,11 @@
     </header>
     <div class="primary-content">
       <!-- Anchor for that scrolls down -->
+      
       <div id="gallery">
         <?php include("include/gallery.html"); ?>
       </div>
+
       <div id="contact">
         <?php include("include/contact.html"); ?>
       </div>
