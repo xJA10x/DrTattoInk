@@ -1,28 +1,40 @@
+body {
+    background-image: url('../img/tatto2.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.main-form{
+    background-image: url('../img/tattoo4.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.main-gallery{
+    background-image: url('../img/tatto1.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 .about
 {
-    border: solid 2px black;    
+    /* border: solid 2px black;     */
     margin: 0 auto;
-}
-.row
-{
-    text-align: center;
-    margin-top: 50px;    
 }
 
 .row {
-
+    text-align: center;
     margin: 0 auto;
     margin-top: 50px;
 
 }
 
 .leftside {
-
+    /* border: solid beige; */
     font-size: 2em;
-    height: 100px;
+    height: 300px;
     width: 500px;
     margin-top: 50px;
-  
-    
-
 }

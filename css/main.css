@@ -7,14 +7,14 @@ Main styles
 body {
 
   color: #878787;
+  /* width: 100vw; */
+  /* height: 100vh; */
+  background-color: black;
   margin: 0;
   font-size: 1em;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1.5;
-  background-image: url('../img/tattoo4.jpg');
-  background-size:cover;
-  background-repeat: no-repeat;
-  background-position: center;
+
 
 }
 
