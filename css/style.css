@@ -1,3 +1,9 @@
+/*********************************
+
+Photos for body, form, and gallery
+
+***********************************/
+
 body {
     background-image: url('../img/tatto2.jpg');
     background-size:cover;
@@ -18,6 +24,14 @@ body {
     background-repeat: no-repeat;
     background-position: center;
 }
+
+
+/*****************************
+
+Contact form
+
+*******************************/
+
 .about
 {
     /* border: solid 2px black;     */
