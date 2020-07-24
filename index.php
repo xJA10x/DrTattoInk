@@ -16,7 +16,6 @@
     <script src="script/lightgallery.js"></script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    
   </head>
   <body>
     <header id="top" class="main-header">
@@ -26,11 +25,9 @@
     </header>
     <div class="primary-content">
       <!-- Anchor for that scrolls down -->
-      
       <div id="gallery">
         <?php include("include/gallery.html"); ?>
       </div>
-
       <div id="contact">
         <?php include("include/contact.html"); ?>
       </div>
